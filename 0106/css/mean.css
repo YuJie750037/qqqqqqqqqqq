@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.message{
+			width:1280;
+			height:100%;
+			background-image:url("../0113/未命名-1.png");
+			margin:0px auto;
+		}
+		
+	.message p{
+			display:inline-block;
+			margin:100px 150px 0 150px;
+		}
+		
+		#fp:first-letter{
+			font-size:200%;
+		}
